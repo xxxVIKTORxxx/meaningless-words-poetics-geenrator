@@ -4,7 +4,7 @@ meaningless words poetics geenrator
 The meaningslesswords.py generates a words<br> based on statistical linguistics of a different languages (there is now lists for english and spanish only)<br>
 by a parameters as frequency of vowels and consonants, word's lenght distribution with statistical variability/probability of outputted word,<br>
 and the probability of a concrete letter to occur in the word based on it's statistical frequency.<br>
-Examples:
+<br><b><i>Examples:</b></i>
 <br>
 <img width="331" height="238" alt="image" src="https://github.com/user-attachments/assets/5df0bdc1-1960-4af8-8ab8-f14e1db67bc4" />
 <br>
@@ -15,7 +15,7 @@ Examples:
 =========================================<br>
 The wordmutationling.py are more tricky: it takes a word as an output, and tries to apply to it a multiple of linguistical rules<br>
 of the historical linguistics (such as consonant's shift), and then in the end a pipeline of a such rules in a randomised approach.<br>
-Examples:
+<br><b><i>Examples:</b></i>
 <br>
 <img width="958" height="777" alt="image" src="https://github.com/user-attachments/assets/d7ea7937-b781-48d8-a996-fdab94cb6c83" />
 <br>
@@ -27,7 +27,7 @@ Examples:
 The poetics.py are an experiment with a theory that the poetry mutates linguistics by the rythmic necessity, <br>
 that shapes and reshapes a languages.<br>
 (<i>in the folder "main engine" there is more interesting application of it in a combination with a three files here co-work as co-integrated</i>)<br>
-Examples:
+<br><b><i>Examples:</b></i>
 <br>
 <img width="825" height="462" alt="image" src="https://github.com/user-attachments/assets/be643726-396c-41b1-860c-a3c567b709b4" />
 <br>
