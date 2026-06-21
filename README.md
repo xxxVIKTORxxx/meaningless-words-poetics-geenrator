@@ -15,7 +15,7 @@ and the probability of a concrete letter to occur in the word based on it's stat
 <br>
 =========================================<br>
 The <b><i>wordmutationling.py</i></b> are more tricky: it takes a word as an intput, and tries to apply to it a multiple of linguistical rules<br>
-of the historical linguistics (such as consonant's shift), and then in the end a pipeline of a such rules in a randomised approach.<br>
+of the historical linguistics (such as consonant's shift), and then in the end a pipeline of a such rules in a randomisedly applied approach.<br>
 <br><b><i>Examples:</b></i><br>
 <br>
 <img width="958" height="777" alt="image" src="https://github.com/user-attachments/assets/d7ea7937-b781-48d8-a996-fdab94cb6c83" />
