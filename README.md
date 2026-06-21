@@ -1,7 +1,7 @@
 # meaningless-words-poetics-geenrator
 meaningless words poetics geenrator
 <br>
-The meaningslesswords.py generates a words based on statistical linguistics of a different languages (there is now lists for english and spanish only)<br>
+The meaningslesswords.py generates a words<br> based on statistical linguistics of a different languages (there is now lists for english and spanish only)<br>
 by a parameters as frequency of vowels and consonants, word's lenght distribution with statistical variability/probability of outputted word,<br>
 and the probability of a concrete letter to occur in the word based on it's statistical frequency.<br>
 Examples:
